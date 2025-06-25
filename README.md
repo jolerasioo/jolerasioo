@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Jose</h1>
+<h4 align="center">A passionate AI Software Engineer working at Microsoft as a Cloud Solution Architect / Customer Engineer / Forward Deployed Engineer. I specialize on LLM-based / agentic AI software applications, helping customers from ideation to production hands-on. My passion is building software solutions that leverage LLMs</h4>
 
-<!--
-**jolerasioo/jolerasioo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Tech stack & skills
+##### LLM & Agentic AI skills:
+![OpenAI](https://img.shields.io/badge/openai-412991.svg?style=for-the-badge&logo=openai&logoColor=white&color=000000)
+![Semantic Kernel](https://img.shields.io/badge/semantic%20kernel-800020.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMjU4LjAwMDAwMHB0IiBoZWlnaHQ9IjI1OC4wMDAwMDBwdCIgdmlld0JveD0iMCAwIDI1OC4wMDAwMDAgMjU4LjAwMDAwMCIKIHByZXNlcnZlQXNwZWN0UmF0aW89InhNaWRZTWlkIG1lZXQiPgoKPGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMC4wMDAwMDAsMjU4LjAwMDAwMCkgc2NhbGUoMC4xMDAwMDAsLTAuMTAwMDAwKSIKZmlsbD0iIzAwMDAwMCIgc3Ryb2tlPSJub25lIj4KPHBhdGggZD0iTTExMDAgMjU3MSBjMCAtNSAtMjIgLTExIC00OCAtMTUgLTI3IC0zIC05MyAtMjAgLTE0OCAtMzcgLTQyNiAtMTM0Ci03NTQgLTQ4MSAtODYzIC05MTYgLTEyIC00NSAtMjEgLTkxIC0yMSAtMTAyIDAgLTEyIC00IC0yMSAtMTAgLTIxIC02IDAgLTEwCi03MCAtMTAgLTE5MCAwIC0xMDQgNCAtMTkwIDkgLTE5MCA1IDAgMTIgLTI0IDE1IC01MiA5IC03MSA2NiAtMjM5IDExMiAtMzMwCjg3IC0xNzUgMjM0IC0zNTEgMzg5IC00NjYgMTQwIC0xMDMgMzg0IC0yMDkgNTI3IC0yMjggMjYgLTQgNDggLTEwIDQ4IC0xNSAwCi01IDg2IC05IDE5MCAtOSAxMDUgMCAxOTAgNCAxOTAgOSAwIDQgMTkgMTEgNDMgMTQgMTM5IDE5IDM0OCAxMDYgNDk2IDIwNQoxMDIgNjggMjQ4IDIxMCAzMTUgMzA3IDEwNyAxNTMgMjA0IDM3OCAyMjIgNTE0IDQgMjggMTAgNTEgMTUgNTEgNSAwIDkgODYgOQoxOTAgMCAxMDUgLTQgMTkwIC05IDE5MCAtNSAwIC0xMSAyMiAtMTUgNDggLTMgMjcgLTIwIDkzIC0zNyAxNDggLTg4IDI4MAotMjYyIDUxMiAtNTIxIDY5MiAtMTEwIDc2IC0zNDkgMTcxIC00NzUgMTg5IC0yNCAzIC00MyAxMCAtNDMgMTQgMCA1IC04NSA5Ci0xOTAgOSAtMTA0IDAgLTE5MCAtNCAtMTkwIC05eiBtMzgwIC05NzIgbDUgLTI2NCAyMjQgMjYyIDIyNCAyNjIgNzkgMyBjNDQgMgo4MSAxIDgzIC0yIDIgLTMgLTEwNCAtMTI2IC0yMzYgLTI3NCBsLTIzOSAtMjY4IDI2IC0zMiBjMjUgLTI5IDI0NCAtMjgwIDQxOQotNDc4IGw3NyAtODggLTk0IDAgLTk0IDAgLTQ1IDUzIGMtMjUgMjggLTExNiAxMzggLTIwMyAyNDIgLTg4IDEwNSAtMTYzIDE5NAotMTY3IDE5OSAtNSA2IC0xOSAwIC0zNCAtMTQgbC0yNSAtMjMgMCAtMjI5IDAgLTIyOCAtNjUgMCAtNjUgMCAwIDE3NSBjMCA5NgotMSAxNzUgLTMgMTc1IC0yIDAgLTM5IC0yMCAtODMgLTQ1IC00MyAtMjUgLTgyIC00NSAtODYgLTQ1IC00IDAgLTIyIC0yOCAtMzkKLTYyIC00MiAtODMgLTEyOSAtMTY4IC0xOTcgLTE5MiAtMTMwIC00NiAtMjgzIDEgLTM5OSAxMjIgbC02MyA2NSAtMjIgLTE5CmMtMTMgLTEwIC0yNiAtMjMgLTMwIC0yOCAtMyAtNSAtMTkgNSAtMzUgMjQgLTQ3IDU1IC00OCA2MSAtMjIgODMgMTIyIDk2IDMzMAozMTUgNDI2IDQ0NyA0NSA2MiAxNzAgMjcxIDIwNCAzNDIgbDIyIDQ3IDQ5IC0yNSBjMjYgLTEzIDQ4IC0yOCA0OCAtMzMgMCAtNQotNyAtMjggLTE2IC01MiAtMTAgLTI4IC0xNiAtNzcgLTE3IC0xMzQgMCAtNzcgNiAtMTExIDQwIC0yMzAgMjIgLTc3IDQ1IC0xNTkKNDkgLTE4MyBsOSAtNDMgODAgNTMgODAgNTMgMyAzMjIgMiAzMjIgNTMgNCBjMjggMSA1NyAyIDYyIDIgNiAtMSAxMiAtMTAxIDE1Ci0yNjZ6Ii8+CjxwYXRoIGQ9Ik05MjAgMTM5NSBjLTY3IC05OSAtMTQxIC0xODggLTI0OCAtMjk3IGwtODYgLTg3IDMwIC0xMiBjMTYgLTcgNjkKLTE0IDExOCAtMTcgOTUgLTQgMTkwIDEzIDI3OSA1MCA0NyAyMCA0NyAyMSA0NyA2OCAwIDI2IC05IDgwIC0yMCAxMjEgLTExIDQxCi0zMCAxMTQgLTQ0IDE2MyBsLTIzIDg5IC01MyAtNzh6Ii8+CjxwYXRoIGQ9Ik05MjUgODg0IGMtMjcgLTcgLTg1IC0xNyAtMTI5IC0yMCAtNzEgLTYgLTc2IC04IC01NSAtMjAgNjYgLTM2IDE2MAotMjUgMjE5IDI1IDM5IDM0IDM2IDM1IC0zNSAxNXoiLz4KPC9nPgo8L3N2Zz4K&logoColor=f5f5f5)
+![AutoGen](https://img.shields.io/badge/AutoGen-000000.svg?style=for-the-badge&logo=autogen&logoColor=white)</br>
+![RAG](https://img.shields.io/badge/RAG-22ADF6.svg?style=for-the-badge&logo=influxdb&logoColor=white)
+![GenAIOps](https://img.shields.io/badge/GenAIOps-C0C0C0.svg?style=for-the-badge&logo=langflow&logoColor=black)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##### Coding languages and Framworks:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)</br>
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)</br>
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+##### Cloud infrastructure and DevOps
+![Azure](https://img.shields.io/badge/azure-blue.svg?style=for-the-badge&logoColor=white&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pgo8IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDIwMDEwOTA0Ly9FTiIKICJodHRwOi8vd3d3LnczLm9yZy9UUi8yMDAxL1JFQy1TVkctMjAwMTA5MDQvRFREL3N2ZzEwLmR0ZCI+CjxzdmcgdmVyc2lvbj0iMS4wIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiB3aWR0aD0iMzAwMC4wMDAwMDBwdCIgaGVpZ2h0PSIzMDAwLjAwMDAwMHB0IiB2aWV3Qm94PSIwIDAgMzAwMC4wMDAwMDAgMzAwMC4wMDAwMDAiCiBwcmVzZXJ2ZUFzcGVjdFJhdGlvPSJ4TWlkWU1pZCBtZWV0Ij4KCjxnIHRyYW5zZm9ybT0idHJhbnNsYXRlKDAuMDAwMDAwLDMwMDAuMDAwMDAwKSBzY2FsZSgwLjEwMDAwMCwtMC4xMDAwMDApIgpmaWxsPSIjMDAwMDAwIiBzdHJva2U9Im5vbmUiPgo8cGF0aCBkPSJNMTAyMzAgMjc5NDUgYy00NDUgLTY0IC04NDMgLTM2NyAtMTAwNiAtNzY1IC0xNSAtMzYgLTQ5MiAtMTQ0NAotMTA2MSAtMzEzMCAtNTY5IC0xNjg2IC0yMzQyIC02OTM5IC0zOTQwIC0xMTY3NSAtMTU5OSAtNDczNSAtMjkxNiAtODY0OAotMjkyOSAtODY5NSAtMTcwIC02NDUgMTYyIC0xMzEwIDc3MSAtMTU0NSAxMzAgLTUwIDIzMyAtNzMgMzgwIC04NSA5MCAtOAoxMTM2IC0xMCAzMzY1IC04IGwzMjM1IDQgOTMgMjEgYzI3MSA2MyA0ODIgMTc0IDY1NyAzNDggMTE2IDExNiAyMzAgMjg1IDI4NQo0MjUgMTIgMzAgMzc1IDExMDEgODA3IDIzODAgNDMxIDEyNzggNzg2IDIzMjYgNzg4IDIzMjggNyA3IDM1IC0xNSAxMTAgLTg1CjQyIC00MCAxMDkgLTEwNCAxNTEgLTE0MiA0MSAtMzkgMTA4IC0xMDIgMTUwIC0xNDAgNDEgLTM5IDEwNyAtMTAxIDE0NyAtMTM4CjQwIC0zNyAxMjQgLTExNSAxODYgLTE3MyA2MiAtNTggMTMwIC0xMjEgMTUwIC0xNDAgMjAgLTE5IDg4IC04MiAxNTAgLTE0MCA2MgotNTggMTMwIC0xMjEgMTUwIC0xNDAgNTQgLTUwIDE3MCAtMTU5IDMwMCAtMjgwIDYzIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMAotMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OAoxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODgKLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAKLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyCjE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYyIC01OCAxMzAgLTEyMQoxNTAgLTE0MCAyMCAtMTkgOTAgLTg0IDE1NiAtMTQ1IDY1IC02MCAxMzUgLTEyNiAxNTUgLTE0NSAyMCAtMTkgODcgLTgyIDE1MAotMTQwIDYzIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODcgLTgyIDE0OSAtMTQwIDYzIC01OCAxMzAgLTEyMSAxNTAKLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwIDYzIC01OCAxMzAgLTEyMSAxNTAgLTE0MCAyMCAtMTkgODggLTgyIDE1MCAtMTQwCjYzIC01OCAxMjYgLTExNiAxNDEgLTEzMCAxNzQgLTE2MyA0MTEgLTI4MCA2NjQgLTMyOCA4NSAtMTYgMzgzIC0xNyA0ODk2IC0xNwo0NTcxIDAgNDgxMCAxIDQ5MDAgMTggMTc4IDMzIDM1MyAxMDUgNTA0IDIwNSAxMDUgNjkgMjgxIDI0OSAzNTQgMzYwIDE4OCAyODgKMjU1IDY1MSAxODMgOTg3IC0xMSA1MCAtMTI4IDQxMCAtMjU5IDgwMCAtMTMyIDM5MSAtNzE4IDIxMjUgLTEzMDIgMzg1NSAtNTg0CjE3MzAgLTE0MTUgNDE5MSAtMTg0NyA1NDcwIC00MzEgMTI3OSAtMTAyMSAzMDI1IC0xMzEwIDM4ODAgLTI4OCA4NTUgLTcwNgoyMDkzIC05MjggMjc1MCAtMzQ4IDEwMzMgLTEwODAgMzE5OCAtMTk5MCA1ODk1IC0xNDAgNDEzIC0yNjUgNzgyIC0yNzggODIyCi0xNTIgNDM3IC01NDIgNzY4IC0xMDAyIDg1MCAtODIgMTQgLTUyNyAxNiAtNDc4NSAxOSAtMzk0NSAyIC00NzEwIDEgLTQ3OTAKLTExeiBtNTY1MCAtMTMxMzUgYzQ3NCAtMTQwNSA5NDQgLTI3OTggMTA0NCAtMzA5NSBsMTgyIC01NDAgLTIxMDAgLTMgYy0xMTU0Ci0xIC0yMTAxIDAgLTIxMDQgMiAtMiAzIDE1NCA0NzQgMzQ4IDEwNDggNDU1IDEzNDggMTIxMiAzNTg0IDEyNTcgMzcxMyAxOSA1NQoxMzMgMzkzIDI1MyA3NTEgMjU5IDc2OSAyMzkgNzEzIDI1MCA2OTQgNCAtOCAzOTYgLTExNjUgODcwIC0yNTcweiIvPgo8L2c+Cjwvc3ZnPgo=)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+
+### Cool projects
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jolerasioo&show_icons=true&locale=en&layout=compact" alt="jolerasioo" /></p>
+
